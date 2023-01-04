@@ -1,4 +1,3 @@
 ## Olá! Me chamo Marcos!
-- 🔭 Trabalho com back-end e front-end
+- 🔭 Estágiario de Desenvolvimento Web na Alerj
 - 🌱 Estudando PHP
-- 📫 Contante-me no email: marcoscoe9@gmail.com
