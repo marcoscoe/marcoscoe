@@ -1,3 +1,3 @@
 ## Olá! Me chamo Marcos!
-- 🔭 Desenvolvedor Full Stack
-- 🌱 Estudando PHP
+- 🔭 Back-end Developer
+- PHP | Laravel | Git | GitHub | PostgreSQL| Bootstrap | HTML | CSS | JavaScript | Livewire | Twill | Alpine
