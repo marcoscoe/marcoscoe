@@ -37,5 +37,5 @@ Adoro otimizar rotinas, automatizar processos e explorar novas tecnologias que f
 
 ## 📫 Vamos trocar uma ideia?
 
-- 💌 marcoscoe9@gmail.com  
+-  marcoscoe9@gmail.com  
 - 🔗 [LinkedIn](www.linkedin.com/in/marcos-augusto-b70463a2)  
